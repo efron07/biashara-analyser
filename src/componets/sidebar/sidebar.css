@@ -1,0 +1,57 @@
+.sidebarr
+{   
+    width: 18%;
+    height:100vh;
+    position: sticky;
+    top: 0px;
+    box-shadow: 1px 0 4px rgb(238, 233, 233);
+}
+.logo
+{
+    margin-bottom: 15px;
+}
+.sidebarrWrapper
+{
+    padding: 20px;
+}
+ 
+.sidebarrMenu
+{
+    margin-bottom: 10px;
+}
+
+.sidebarrTitle
+{
+    font-size: 13px;
+}
+
+.sidebarrList
+{
+    list-style: none;
+    padding: 5px;
+}
+.sidebarrListItem
+{
+    padding: 10px;
+    cursor: pointer;
+    display: flex;  
+    align-items: center;
+  border-radius: 7px;
+
+
+}
+.sideBarIcon
+{
+    margin-right: 15px;
+    color: #64c5b1;
+}
+
+
+
+
+.sidebarrListItem.Active,
+.sidebarrListItem:hover
+{
+    background-color: #d4ece7a1;
+    
+}

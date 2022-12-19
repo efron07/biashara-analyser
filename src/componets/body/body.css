@@ -1,0 +1,8 @@
+.mainContent
+{
+    width: 82%;
+    height: 100%;
+    overflow: auto;
+    padding-right: 2rem;
+    padding-top: 2rem;
+}

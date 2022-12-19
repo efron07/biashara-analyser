@@ -1,0 +1,60 @@
+
+.heading-bg
+{
+    background-color: #64c5b1;
+}
+.btn
+{
+    background-color: #64c5b1;
+    border: none;
+}
+.btn:hover
+{
+    background-color: #4de9ca;
+}
+.sides
+{
+    display: grid;
+    grid-template-columns: 15% 70%;
+}
+.side1
+{
+    background-color: #4de9ca;
+    height: 100vh;
+}
+.side2
+{
+    background-color: rgb(243, 243, 243);
+    width: 100vw;
+    height: 5rem;
+}
+
+.side3
+{
+    background-color: rgb(83, 226, 183);
+    width: 100vw;
+    height: 5rem;
+    position: absolute;
+    top: 5rem;
+}
+
+.receiptButton
+{
+    background-color:#64c5b1;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin-right: 10px;
+    width: 100px;
+    color: white;
+}
+.returnButton
+{
+    background-color: #64c5b1;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin-right: 10px;
+    width: 100px;
+    color: white;
+}

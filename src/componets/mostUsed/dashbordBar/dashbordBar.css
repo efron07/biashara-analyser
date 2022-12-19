@@ -1,0 +1,36 @@
+.bar
+{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #64C5B1;
+    height: 50px;
+    margin-top: 15px;
+    color: white;
+    margin-bottom: 2rem;
+}
+
+.barRight
+{
+    margin-left: 20px;
+    padding: 5px;
+}
+
+.barRight span
+{
+    margin-right: 15px;
+}
+.barLeft
+{
+    margin-right: 30px;
+    padding: 5px;
+}
+.barLeft span{
+    margin-right: 20px;
+}
+.barTitle
+{
+    font-weight: bold;
+    font-size: 19px;
+}
